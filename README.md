@@ -4,7 +4,7 @@ I am the founder of [Good Life Games LLC](https://goodlifegames.io/) and work ac
 
 Most of my current product and client work lives in private repos. This profile is here to point to public proof, shipped products, and case studies rather than a large open-source footprint.
 
-## Current Work
+## Work across products and systems
 
 - **AI workflow and decision-support tools**: source ingestion, scoring, review queues, evidence workflows, draft generation, and human approval gates.
 - **Product and UX implementation**: turning ambiguous workflows into usable interfaces, prototypes, dashboards, and mobile/web product surfaces.
@@ -14,11 +14,19 @@ Most of my current product and client work lives in private repos. This profile 
 
 ### Good Life Games
 
-[goodlifegames.io](https://goodlifegames.io/) is the studio site and portfolio hub. It includes current work, case studies, and contact information.
+[goodlifegames.io](https://goodlifegames.io/) is the studio site and portfolio hub. It includes selected work, case studies, and contact information.
 
 ### Bearing Fruit
 
 [bearingfruit.app](https://bearingfruit.app) is a live iOS/Android spiritual formation app. I led product, UX, content strategy, and AI-assisted React Native / Expo development.
+
+### Record Foundry
+
+[Record Foundry](https://recordfoundry.goodlifegames.io/) offers four public-record APIs and reports covering federal contract awards, Austin and Chicago permits, and FDA import refusals, with source evidence and coverage limits.
+
+### TankCurrent
+
+[TankCurrent](https://tankcurrent.com/) is a public lookup pilot for Texas underground storage tank facility records. It shows a published copy of TCEQ delivery-certificate data, tank status history, and recent changes; delivery decisions still require official records and existing procedures.
 
 ### SignalFoundry
 
@@ -34,4 +42,4 @@ Most of my current product and client work lives in private repos. This profile 
 
 ## Contact
 
-For contract, fractional, part-time, or founder-friendly product work: [matthew@goodlifegames.io](mailto:matthew@goodlifegames.io).
+For collaborations, contract work, or an interesting opportunity: [matthew@goodlifegames.io](mailto:matthew@goodlifegames.io).
